@@ -8,5 +8,7 @@ Need XAMPP to run.
 
 
 1: Once connected to xampp,
+
 2: In the phpmyadmin page import the two databases #Attached
+
 3: Default adimn username: "admin123@gmail.com" password: "admin@123"
